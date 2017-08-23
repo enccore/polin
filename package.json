@@ -1,0 +1,19 @@
+{
+  "name": "polin",
+  "version": "1.0.0",
+  "description": "A generic modular front-end web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enccore/polin.git"
+  },
+  "author": "Enccore Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enccore/polin/issues"
+  },
+  "homepage": "https://github.com/enccore/polin#readme"
+}
